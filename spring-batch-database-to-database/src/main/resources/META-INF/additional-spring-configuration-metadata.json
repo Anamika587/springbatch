@@ -1,0 +1,92 @@
+{"properties": [
+  {
+    "name": "spring.datasource2.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource2.driverClassName'"
+  },
+  {
+    "name": "spring.datasource2.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource2.url'"
+  },
+  {
+    "name": "spring.datasource2.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource2.username'"
+  },
+  {
+    "name": "spring.datasource2.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource2.password'"
+  },
+  {
+    "name": "spring.datasource1.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource1.driverClassName'"
+  },
+  {
+    "name": "spring.datasource1.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource1.username'"
+  },
+  {
+    "name": "spring.datasource1.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource1.password'"
+  },
+  {
+    "name": "spring.datasource1.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource1.url'"
+  },
+  {
+    "name": "spring.datasource1.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource1.driverClassName'"
+  },
+  {
+    "name": "spring.datasource1.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource1.driverClassName'"
+  },
+  {
+    "name": "spring.ds1.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.ds1.driverClassName'"
+  },
+  {
+    "name": "spring.ds2.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.ds2.driverClassName'"
+  },
+  {
+    "name": "spring.ds1.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.ds1.url'"
+  },
+  {
+    "name": "spring.ds1.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.ds1.username'"
+  },
+  {
+    "name": "spring.ds1.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.ds1.password'"
+  },
+  {
+    "name": "spring.ds2.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.ds2.password'"
+  },
+  {
+    "name": "spring.ds2.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.ds2.url'"
+  },
+  {
+    "name": "spring.ds2.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.ds2.username'"
+  }
+]}

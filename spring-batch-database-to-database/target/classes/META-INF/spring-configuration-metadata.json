@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "spring.ds1",
+      "type": "javax.sql.DataSource",
+      "sourceType": "demo.configuration.BatchConfiguration",
+      "sourceMethod": "public javax.sql.DataSource primaryDS() "
+    },
+    {
+      "name": "spring.ds2",
+      "type": "javax.sql.DataSource",
+      "sourceType": "demo.configuration.BatchConfiguration",
+      "sourceMethod": "public javax.sql.DataSource secondaryDS() "
+    }
+  ],
+  "properties": []
+}
